@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/teachplatform-demo/static/css/main.6f58183a.css",
+    "main.js": "/teachplatform-demo/static/js/main.de2d3ab2.js",
+    "index.html": "/teachplatform-demo/index.html",
+    "main.6f58183a.css.map": "/teachplatform-demo/static/css/main.6f58183a.css.map",
+    "main.de2d3ab2.js.map": "/teachplatform-demo/static/js/main.de2d3ab2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f58183a.css",
+    "static/js/main.de2d3ab2.js"
+  ]
+}
